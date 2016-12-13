@@ -1,0 +1,24 @@
+{
+  "name": "loan-performance-analysis",
+  "version": "1.0.0",
+  "description": "Fannie Mae and Freddie Mac Loan Performance Analysis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartiknagappa/loan-performance-analysis.git"
+  },
+  "author": "Kartik Nagappa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartiknagappa/loan-performance-analysis/issues"
+  },
+  "homepage": "https://github.com/kartiknagappa/loan-performance-analysis#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "pg-promise": "^5.5.0"
+  }
+}
